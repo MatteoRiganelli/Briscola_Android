@@ -1,4 +1,4 @@
 # Briscola_Android
-App Android gioco Briscola per esame Programmazione 3
+App Android Briscola card game (Programmazione 3)
 
 in collaboration with luca.pagliochini@gmail.com
